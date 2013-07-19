@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1979a80e-a7dd-40d1-95e7-2a860bf46efd" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact.html" afterPath="$PROJECT_DIR$/contact.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/explorers.html" afterPath="$PROJECT_DIR$/explorers.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/faq.html" afterPath="$PROJECT_DIR$/resources/faq.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mission.html" afterPath="$PROJECT_DIR$/mission.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources.html" afterPath="$PROJECT_DIR$/resources.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/support.html" afterPath="$PROJECT_DIR$/support.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tours/tour_detail_backpack.html" afterPath="$PROJECT_DIR$/tours/tour_detail_backpack.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tours/tour_detail_bigsur.html" afterPath="$PROJECT_DIR$/tours/tour_detail_bigsur.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tours.html" afterPath="$PROJECT_DIR$/tours.html" />
+      <change type="MOVED" beforePath="F:\explore_california\tours\tour_detail_backpack.html" afterPath="$PROJECT_DIR$/tours/tour_detail_backpack_cal.html" />
     </list>
     <ignored path="explore_california.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -45,10 +38,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="contact.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="contact.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/contact.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="70" column="12" selection-start="3396" selection-end="3817" vertical-scroll-proportion="0.3533123">
+            <state line="70" column="12" selection-start="3396" selection-end="3817" vertical-scroll-proportion="-1.4736842">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tour_detail_backpack_cal.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tours/tour_detail_backpack_cal.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="60" column="111" selection-start="3237" selection-end="3237" vertical-scroll-proportion="-1.1710526">
               <folding />
             </state>
           </provider>
@@ -81,19 +83,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tour_detail_backpack.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tours/tour_detail_backpack.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="166" column="43" selection-start="11441" selection-end="11441" vertical-scroll-proportion="-2.2236843">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="tour_detail_bigsur.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tours/tour_detail_bigsur.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="138" column="43" selection-start="8016" selection-end="8016" vertical-scroll-proportion="-2.2236843">
+            <state line="60" column="111" selection-start="3239" selection-end="3239" vertical-scroll-proportion="-1.1710526">
               <folding />
             </state>
           </provider>
@@ -117,10 +110,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tours.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="tours.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tours.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="151" column="102" selection-start="12482" selection-end="12482" vertical-scroll-proportion="-4.0394735">
+            <state line="80" column="464" selection-start="5172" selection-end="5172" vertical-scroll-proportion="0.2807571">
               <folding />
             </state>
           </provider>
@@ -149,11 +142,12 @@
         <option value="$PROJECT_DIR$/explorers.html" />
         <option value="$PROJECT_DIR$/mission.html" />
         <option value="$PROJECT_DIR$/support.html" />
-        <option value="$PROJECT_DIR$/tours.html" />
         <option value="$PROJECT_DIR$/resources.html" />
         <option value="$PROJECT_DIR$/tours/tour_detail_backpack.html" />
-        <option value="$PROJECT_DIR$/tours/tour_detail_bigsur.html" />
         <option value="$PROJECT_DIR$/resources/faq.html" />
+        <option value="$PROJECT_DIR$/tours/tour_detail_backpack_cal.html" />
+        <option value="$PROJECT_DIR$/tours/tour_detail_bigsur.html" />
+        <option value="$PROJECT_DIR$/tours.html" />
       </list>
     </option>
   </component>
@@ -404,13 +398,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tours.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="151" column="102" selection-start="12482" selection-end="12482" vertical-scroll-proportion="-4.0394735">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="158" selection-start="203" selection-end="203" vertical-scroll-proportion="-0.84210527">
@@ -432,20 +419,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tours/tour_detail_backpack.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="166" column="43" selection-start="11441" selection-end="11441" vertical-scroll-proportion="-2.2236843">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tours/tour_detail_bigsur.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="138" column="43" selection-start="8016" selection-end="8016" vertical-scroll-proportion="-2.2236843">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/faq.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="70" column="19" selection-start="3924" selection-end="3924" vertical-scroll-proportion="-2.2236843">
@@ -455,7 +428,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/contact.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="70" column="12" selection-start="3396" selection-end="3817" vertical-scroll-proportion="0.3533123">
+        <state line="70" column="12" selection-start="3396" selection-end="3817" vertical-scroll-proportion="-1.4736842">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tours/tour_detail_backpack_cal.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="60" column="111" selection-start="3237" selection-end="3237" vertical-scroll-proportion="-1.1710526">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tours/tour_detail_bigsur.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="60" column="111" selection-start="3239" selection-end="3239" vertical-scroll-proportion="-1.1710526">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tours.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="80" column="464" selection-start="5172" selection-end="5172" vertical-scroll-proportion="0.2807571">
           <folding />
         </state>
       </provider>
